@@ -1,0 +1,16 @@
+{
+  "name": "dill",
+  "packageUri": "package://pkg.ushd.ca/dill@0.6.0",
+  "version": "0.6.0",
+  "packageZipUrl": "https://github.com/umayr/dill/releases/download/v0.6.0/dill@0.6.0.zip",
+  "packageZipChecksums": {
+    "sha256": "e07ec1faaab06ffc085da757593b4e5ec4a454ba5a9b643b5f1858992e4160a2"
+  },
+  "dependencies": {},
+  "sourceCode": "https://github.com/umayr/dill",
+  "license": "MIT",
+  "authors": [
+    "Umayr Shahid <umayr.shahid@gmail.com>"
+  ],
+  "description": "Official schema for the Dill orchestrator"
+}
